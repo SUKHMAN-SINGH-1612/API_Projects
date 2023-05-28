@@ -1,4 +1,4 @@
-# API_Projects
+# API Projects
 Welcome to my API Projects Repository! This comprehensive collection houses a diverse range of my API-driven projects, serving as a testament to my proficiency in harnessing the power of APIs to create innovative and functional applications.
 
 Within this repository, you'll find a rich assortment of projects that exemplify my expertise in designing, developing, and integrating APIs across a variety of domains. Each project showcases my ability to seamlessly connect with external services, retrieve and process data, and build dynamic applications that leverage the capabilities of APIs.
